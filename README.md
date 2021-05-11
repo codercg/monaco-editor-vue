@@ -3,9 +3,11 @@
 =======
 # git
 
-## Project setup
+## Project Dependent
 ```
-yarn install
+cnpm install monaco-editor --save
+cnpm install monaco-editor-webpack-plugin --save-dev
+npm i --save ant-design-vue
 ```
 
 ### Compiles and hot-reloads for development
